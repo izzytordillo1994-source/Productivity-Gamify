@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Productivity RPG",
+  "description": "A productivity RPG where you battle your tasks as monsters, gain experience, and level up your character. Uses Gemini to generate creative monster names and quest descriptions for your tasks.",
+  "requestFramePermissions": []
+}
